@@ -67,8 +67,6 @@ gsap.to("#page-bottom",{
     opacity:0
 })
 
-
-
 var tl = gsap.timeline({
     scrollTrigger:{
         trigger:`#page1`,
